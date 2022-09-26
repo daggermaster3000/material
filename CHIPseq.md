@@ -2,7 +2,9 @@
 
 - write 2-3 sentences about what the method does and what it is used for
 
-ChIP-seq uses a formaldehyde treatement to fixate DNA interacting proteins. The DNA with the bound proteins is then fragmented. Immunoprecipitation is used in order to isolate DNA bound to a protein of interest. The isolated DNA is amplified, fragmented and sequenced.
+ChIP-seq uses a formaldehyde treatement to fixate DNA interacting proteins. The DNA with the bound proteins is then fragmented. Immunoprecipitation is used in order to isolate DNA bound to a protein of interest. The isolated DNA is amplified, fragmented and sequenced. 
+
+This method is used to investigate gene regulation events and nucleic-acid - protein interactions.
 
 
 - make the link (technology -> application -> statistics)
