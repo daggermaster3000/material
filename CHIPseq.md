@@ -1,4 +1,4 @@
-# Chromatin immunoprecipitation sequencing
+# Chromatin immunoprecipitation sequencing (ChIP-seq)
 
 - write 2-3 sentences about what the method does and what it is used for
 
@@ -21,4 +21,5 @@ ChIP-seq uses a formaldehyde treatement to fixate DNA interacting proteins. The 
 
 
 ### Group Members: 
+
 daggermaster3000, wyq977, sarloet
